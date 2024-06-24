@@ -1,16 +1,6 @@
 # list_random_user
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hasil :
+![WhatsApp Image 2024-06-24 at 11 47 23 PM (1)](https://github.com/megaayulestari/daftar_user_random/assets/28280868/9c04299b-cf66-48be-a4d7-621fd0b03324)
+![WhatsApp Image 2024-06-24 at 11 47 24 PM](https://github.com/megaayulestari/daftar_user_random/assets/28280868/c993b609-5a6b-4e08-bca7-1fbe3a5ca9b1)
+![WhatsApp Image 2024-06-24 at 11 47 23 PM](https://github.com/megaayulestari/daftar_user_random/assets/28280868/0fe46828-1e5b-4d80-969d-5636b3a5230d)
