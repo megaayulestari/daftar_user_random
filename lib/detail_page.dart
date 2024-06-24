@@ -49,7 +49,7 @@ class Details extends StatelessWidget {
                 decoration: new BoxDecoration(
                     image: DecorationImage(
                   image:
-                      NetworkImage("https://iambharat.tk/images/hiretpp.jpg"),
+                      NetworkImage("#"),
                   fit: BoxFit.cover,
                   alignment: Alignment.center,
                   repeat: ImageRepeat.noRepeat,
@@ -85,6 +85,8 @@ class Details extends StatelessWidget {
                           ),
                           _spacing(context),
                           _spacing(context),
+
+                          //menambahkan icon untuk beberapa sosmed, sementara belum ada linknya
                           new Row(
                             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                             children: <Widget>[
@@ -93,7 +95,7 @@ class Details extends StatelessWidget {
                                   borderRadius:
                                       BorderRadius.all(Radius.circular(10)),
                                   child: Image.asset(
-                                    "images/icons/facebook_logo.png",
+                                    "images/facebook.png",
                                     width: 30.0,
                                   ),
                                 ),
@@ -104,7 +106,7 @@ class Details extends StatelessWidget {
                                   borderRadius:
                                       BorderRadius.all(Radius.circular(10)),
                                   child: Image.asset(
-                                    "images/icons/instagram_logo.png",
+                                    "images/instagram.png",
                                     width: 30.0,
                                   ),
                                 ),
@@ -115,7 +117,7 @@ class Details extends StatelessWidget {
                                   borderRadius:
                                       BorderRadius.all(Radius.circular(10)),
                                   child: Image.asset(
-                                    "images/icons/website_logo.png",
+                                    "images/youtube.png",
                                     width: 30.0,
                                   ),
                                 ),
@@ -126,7 +128,7 @@ class Details extends StatelessWidget {
                                   borderRadius:
                                       BorderRadius.all(Radius.circular(10)),
                                   child: Image.asset(
-                                    "images/icons/linkedin_logo.png",
+                                    "images/facebook.png",
                                     width: 30.0,
                                   ),
                                 ),
@@ -137,7 +139,7 @@ class Details extends StatelessWidget {
                                   borderRadius:
                                       BorderRadius.all(Radius.circular(10)),
                                   child: Image.asset(
-                                    "images/icons/twitter_logo.png",
+                                    "images/instagram.png",
                                     width: 30.0,
                                   ),
                                 ),

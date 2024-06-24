@@ -37,7 +37,9 @@ Future<List<User>> userDetails() async {
   return users;
 }
 
+
 class MyApp extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -49,6 +51,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
 
 class MyHomePage extends StatefulWidget {
   @override
@@ -62,6 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
     setState(() {});
   }
 
+//mengklasifikasikan icon untuk men dan women
   String menOrWomen(gender){
     String imageURL = "";
     if(gender=="male"){
